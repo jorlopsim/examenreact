@@ -1,0 +1,11 @@
+Para instalar el proyecto con:
+npx storybook@latest init
+
+Para poder iniciar:
+npx storybook@latest init
+
+Deploy en vercel:
+Deployment: 
+examenreact-nx2mvm4gp-jorlopsims-projects.vercel.app
+Domains en vercel:
+https://examenreact.vercel.app/?path=/docs/configure-your-project--docs
